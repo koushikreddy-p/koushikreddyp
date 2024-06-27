@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Koushik Reddy P</h1>
+<div align="center">
+<img src="[https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif](https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif)" width="50px" style="max-width: 100%;">
+<h1 align="center">Hi 👋, I'm Koushik Reddy </h1>
 <h3 align="center">A passionate frontend developer from Lovely Professional University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikreddyp&label=Profile%20views&color=0e75b6&style=flat" alt="koushikreddyp" /> </p>
