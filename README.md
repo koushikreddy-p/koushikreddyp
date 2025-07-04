@@ -4,7 +4,6 @@ Aspiring Full-Stack Web Developer
 Crafting real-world projects using the MERN stack, REST APIs, and modern UI.
 
 - 🔭 Currently building: 1 Frontend + 1 Full-Stack project
-- 💻 Daily DSA + Dev Challenge (90 Days)
 - ✍️ Sharing progress on [Twitter](https://twitter.com/koushik_hq)
 - 🌱 Learning: System Design, CS Basics, Clean Code
 
@@ -18,7 +17,7 @@ Crafting real-world projects using the MERN stack, REST APIs, and modern UI.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## 📈 GitHub Stats
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushikreddyp&show_icons=true&theme=radical)
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushikreddy-p&show_icons=true&theme=radical)
 
 ---
 
